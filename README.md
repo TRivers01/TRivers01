@@ -81,5 +81,5 @@ Every system I deliver is production-ready, fully documented, and runs without m
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tracie-rivers/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tracieriversmba/)
 [![Website](https://img.shields.io/badge/Website-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white)](https://strategicdynamicsgroup.com)
